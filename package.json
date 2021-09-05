@@ -4,7 +4,7 @@
   "description": "this is just a test",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/leanderseige/quickclone/issues"
   },
-  "homepage": "https://github.com/leanderseige/quickclone#readme"
+  "homepage": "https://github.com/leanderseige/quickclone#readme",
+  "dependencies": {
+    "jest": "^27.1.0"
+  }
 }
