@@ -1,6 +1,6 @@
 {
   "name": "quickclone",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "this is just a test",
   "main": "src/index.js",
   "scripts": {
